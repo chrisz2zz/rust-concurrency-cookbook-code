@@ -1,0 +1,1 @@
+/root/rust-project/concurrency/target/debug/examples/create_thread: /root/rust-project/concurrency/chapter_01_thread/examples/create_thread.rs /root/rust-project/concurrency/chapter_01_thread/src/lib.rs

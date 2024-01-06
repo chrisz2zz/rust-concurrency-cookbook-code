@@ -1,0 +1,10 @@
+[workspace]
+members = ["chapter_01_thread"]
+resolver = "2"
+
+
+# [dependencies]
+# affinity = "0.1.2"
+# num_cpus = "1.16.0"
+# num_threads = "0.1.6"
+# thread-amount = "0.1.3"
