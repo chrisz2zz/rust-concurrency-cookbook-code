@@ -68,6 +68,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "chapter_02_thread_pool"
+version = "0.1.0"
+dependencies = [
+ "rayon",
+ "scoped-tls",
+]
+
+[[package]]
 name = "core_affinity"
 version = "0.8.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
