@@ -6,14 +6,14 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-executor-service = "0.2.2"
-fast-threadpool = "0.3.0"
-poolite = "0.7.1"
-rayon = "1.8.0"
-rusty_pool = "0.7.0"
-scheduled-thread-pool = "0.2.7"
-scoped-tls = "1.0.1"
-scoped_threadpool = "0.1.9"
-threadpool = "1.8.1"
-threadpool-executor = "0.3.2"
-tokio = { version = "1.35.1", features = ["full"] }
+executor-service = { workspace = true }
+fast-threadpool = { workspace = true }
+poolite = { workspace = true }
+rayon = { workspace = true }
+rusty_pool = { workspace = true }
+scheduled-thread-pool = { workspace = true }
+scoped-tls = { workspace = true }
+scoped_threadpool = { workspace = true }
+threadpool = { workspace = true }
+threadpool-executor = { workspace = true }
+tokio = { workspace = true, features = ["full"] }
