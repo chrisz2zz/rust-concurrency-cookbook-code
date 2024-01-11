@@ -3,6 +3,7 @@ members = [
     "chapter_01_thread",
     "chapter_02_thread_pool",
     "chapter_03_async_await",
+    "chapter_04_container_sync_primitive",
 ]
 resolver = "2"
 
@@ -33,3 +34,4 @@ futures = "0.3.30"
 futures-lite = "2.2.0"
 async-std = "1.12.0"
 smol = "2.0.0"
+beef = "0.5.2"
