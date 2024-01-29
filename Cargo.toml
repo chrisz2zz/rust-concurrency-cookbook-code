@@ -4,7 +4,7 @@ members = [
     "chapter_02_thread_pool",
     "chapter_03_async_await",
     "chapter_04_container_sync_primitive",
-    "chapter_05_basic_sync_primitive",
+    "chapter_05_basic_sync_primitive", "chapter_06_concurrency_collection", "chapter_07_process",
 ]
 resolver = "2"
 
